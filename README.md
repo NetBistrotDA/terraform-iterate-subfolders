@@ -7,3 +7,5 @@ clone the repo
 terraform init
 
 terraform plan
+
+[Outsource Terraform projects with NetBistrot](https://netbistrot.com/en/outsourcing/)
